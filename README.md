@@ -26,6 +26,7 @@ Basically, we applied data cleaning techniques to make the dataset consistent an
 ###  next... Data visualization 
 
 ### Projects Folder Structure 
+
 Data_Cleaning_Project/
 │
 ├── data/
@@ -36,5 +37,6 @@ Data_Cleaning_Project/
 │   ├── Raw_to_clean.ipynb           # Notebook for data cleaning (ETL part)
 │   └── visualize_clean_dataset.ipynb # Notebook for data visualization
 │
-├── README.md                        
+└── README.md                        # Project documentation (steps, summary, usage)
+
 
