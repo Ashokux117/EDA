@@ -27,16 +27,16 @@ Basically, we applied data cleaning techniques to make the dataset consistent an
 
 ### Projects Folder Structure 
 
+
 Data_Cleaning_Project/
 │
 ├── data/
-│   ├── Rawdataset.xlsx              # Original raw dataset file
-│   └── clean_data.csv               # Cleaned dataset after processing
+│ ├── Rawdataset.xlsx # Original raw dataset file
+│ └── clean_data.csv # Cleaned dataset after processing
 │
 ├── notebooks/
-│   ├── Raw_to_clean.ipynb           # Notebook for data cleaning (ETL part)
-│   └── visualize_clean_dataset.ipynb # Notebook for data visualization
+│ ├── Raw_to_clean.ipynb # Notebook for data cleaning (ETL part)
+│ └── visualize_clean_dataset.ipynb # Notebook for data visualization
 │
-└── README.md                        # Project documentation (steps, summary, usage)
-
+├── README.md # Project documentation (steps, summary, usage)
 
