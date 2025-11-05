@@ -23,3 +23,6 @@ Basically, we applied data cleaning techniques to make the dataset consistent an
 
 **Step 9:** Save the cleaned dataset as `cleaned_dataset.csv`.
 
+###  next... Data visualization 
+
+
